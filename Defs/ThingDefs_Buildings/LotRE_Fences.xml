@@ -50,7 +50,7 @@
     <holdsRoof>false</holdsRoof>
     <designationCategory>Structure</designationCategory>
     <staticSunShadowHeight>1.0</staticSunShadowHeight>
-    <blockLight>true</blockLight>
+    <blockLight>false</blockLight>
     <canOverlapZones>false</canOverlapZones>
     <stuffCategories>
       <li>Metallic</li>

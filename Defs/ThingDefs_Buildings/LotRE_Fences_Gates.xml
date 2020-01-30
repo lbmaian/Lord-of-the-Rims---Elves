@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  <!-- TODO: Figure out a way to unify these gates into a single auto-rotating type. They currently can't be unified due to different draw sizes. -->
   <DoorsExpanded.DoorExpandedDef Name="Elven_Fence_GateA" ParentName="HeronDoorBase">
     <defName>Elven_Fence_GateA</defName>
     <label>Elven, decorative fence gate.</label>
@@ -28,6 +29,7 @@
     </graphicData>
     <uiIconPath>Things/Building/Door/ElvenFenceGateA_MenuIcon</uiIconPath>
     <costStuffCount>50</costStuffCount>
+    <blockLight>false</blockLight>
     <designationHotKey>Misc1</designationHotKey>
     <doorType>Standard</doorType>
     <researchPrerequisites>
@@ -62,6 +64,7 @@
     </graphicData>
     <uiIconPath>Things/Building/Door/ElvenFenceB_MenuIcon</uiIconPath>
     <costStuffCount>50</costStuffCount>
+    <blockLight>false</blockLight>
     <designationHotKey>Misc1</designationHotKey>
     <doorType>Standard</doorType>
     <researchPrerequisites>
